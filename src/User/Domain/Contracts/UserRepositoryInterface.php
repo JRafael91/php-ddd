@@ -2,6 +2,7 @@
 declare(strict_types=1);
 
 namespace Src\User\Domain\Contracts;
+
 use Src\User\Domain\User;
 use Src\User\Domain\ValueObjects\UserId;
 use Src\User\Domain\ValueObjects\UserEmail;

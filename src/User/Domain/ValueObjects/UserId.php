@@ -2,6 +2,7 @@
 declare(strict_types=1);
 
 namespace Src\User\Domain\ValueObjects;
+
 use Ramsey\Uuid\Uuid;
 
 final class UserId

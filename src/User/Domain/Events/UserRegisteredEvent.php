@@ -2,6 +2,7 @@
 declare(strict_types=1);
 
 namespace Src\User\Domain\Events;
+
 use Src\User\Domain\User;
 
 final class UserRegisteredEvent

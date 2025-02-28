@@ -1,5 +1,6 @@
 <?php
-// Should be:
+declare(strict_types=1);
+
 namespace Src\User\Domain\Exceptions;
 
 final class InvalidEmailException extends \DomainException

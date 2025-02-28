@@ -4,6 +4,7 @@ declare(strict_types=1);
 namespace Src\User\Application\Dto;
 
 use Src\User\Domain\User;
+
 final class UserResponseDTO
 {
 	private string $id;
