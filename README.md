@@ -2,6 +2,9 @@
 
 API de gestión de usuarios construida con PHP utilizando los principios de Diseño Orientado al Dominio (DDD) y Arquitectura Limpia, sin depender de ningún framework PHP.
 
+- PHP 8.4
+- Doctrine ORM
+
 
 ## Iniciar Proyecto
 
