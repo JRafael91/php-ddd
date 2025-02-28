@@ -1,0 +1,6 @@
+.phpunit.cache
+vendor/
+Dockerfile
+
+README.md
+
